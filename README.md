@@ -7,5 +7,6 @@
 * KITTI RoadLane_Detection_Evaluation Dataset
 
 # History
+## `2017. 12. 19`
 * Read Left Color Image, Velodyne Lidar, Calib data
-* Generate Ranged Image : Projection of Velodyne Lidar in the Image (2017. 12. 19)
+* Generate Ranged Image : Projection of Velodyne Lidar in the Image ()
